@@ -2,6 +2,10 @@
 
 Physically play the dino game by using your webcam. Jump to jump, crouch to crouch.
 
+View at: [Youtube](https://www.youtube.com/watch?v=gWQd4n0hGFw&feature=youtu.be)
+Play at: [here](https://ntakour.is/posenet-dino-game/)
+Read about on: [Medium](https://medium.com/@zarkopafilis/playing-chromes-dino-game-by-physically-jumping-and-crouching-a3d319234727?source=friends_link&sk=92f5a9b3bc8735ccab84f7b4bf6e835b)
+
 ## Instructions
 
 Download this repository, use latest chrome to open `index.html`.
